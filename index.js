@@ -18,7 +18,7 @@ function move(image) {
         to: moveToCoordinates
     }
 }
-
+//? question "const inventory = newInventory()"
 // let greenCharacter = newImage('assets/green-character.gif')
 // let thingThatMoveReturns = move(greenCharacter)
 // thingThatMoveReturns.to(100, 250) below is reduced
